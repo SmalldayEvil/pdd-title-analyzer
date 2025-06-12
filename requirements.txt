@@ -3,5 +3,6 @@ pandas==2.0.2
 jieba==0.42.1
 matplotlib==3.7.1
 wordcloud==1.8.2.2  # 改为这个兼容性更好的版本
+Pillow==9.5.0  # 添加这一行
 openpyxl==3.1.2
 numpy==1.24.3
